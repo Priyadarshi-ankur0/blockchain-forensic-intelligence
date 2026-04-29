@@ -1,0 +1,13 @@
+blockchain-forensic-intelligence/
+│
+├── README.md
+├── LICENSE
+│
+├── paper/
+│   └── research_paper.pdf
+│
+├── diagrams/
+│   └── README.md
+│
+└── references/
+    └── bibliography.md
